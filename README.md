@@ -6,19 +6,19 @@ _todo_
 
 ## Central
 
-[Route](https://github.com/cobchamp/botw_shrine_collection/tree/master/Central)
+[Route](https://github.com/cobchamp/botwce_shrine_collection/tree/master/Central) from **phluf_**
 
 ## Dueling Peaks
 
-[Route](https://github.com/cobchamp/botw_shrine_collection/tree/master/Dueling Peaks) from **phluf_**
+[Route](https://github.com/cobchamp/botwce_shrine_collection/tree/master/Dueling\ Peaks) from **phluf_**
 
 ## Eldin
 
-[Route](https://github.com/cobchamp/botw_shrine_collection/tree/master/Eldin) from **phluf_**
+[Route](https://github.com/cobchamp/botwce_shrine_collection/tree/master/Eldin) from **phluf_**
 
 ## Faron
 
-[Route](https://github.com/cobchamp/botw_shrine_collection/tree/master/Faron) from **phluf_**
+[Route](https://github.com/cobchamp/botwce_shrine_collection/tree/master/Faron) from **phluf_**
 
 ## Gerudo
 
@@ -42,7 +42,7 @@ _todo_
 
 ## Lanayru
 
-[Route](https://github.com/cobchamp/botw_shrine_collection/tree/master/Lanayru) from **phluf_**
+[Route](https://github.com/cobchamp/botwce_shrine_collection/tree/master/Lanayru) from **phluf_**
 
 ## Ridgeland
 
@@ -50,7 +50,7 @@ _todo_
 
 ## Tabantha
 
-[Route](https://github.com/cobchamp/botw_shrine_collection/tree/master/Tabantha) from **phluf_**
+[Route](https://github.com/cobchamp/botwce_shrine_collection/tree/master/Tabantha) from **phluf_**
 
 ## Wasteland
 
