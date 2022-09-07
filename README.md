@@ -10,7 +10,7 @@ _todo_
 
 ## Dueling Peaks
 
-[Route](https://github.com/cobchamp/botwce_shrine_collection/tree/master/Dueling\ Peaks) from **phluf_**
+[Route](https://github.com/cobchamp/botwce_shrine_collection/tree/master/DuelingPeaks) from **phluf_**
 
 ## Eldin
 
