@@ -22,7 +22,7 @@ _todo_
 
 ## Gerudo
 
-_todo_
+[Route](https://celer.itntpiston.app/#/gh/protosrl/botwce_shrine_collection_gerudo) by **futurelander** (route transcribed by ProtoSRL)
 
 ## GP
 
